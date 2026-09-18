@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing header matching the ambient purple -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=BD34FE&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yasser;Building+Cloud-Backed+Apps;Creative+Visual+Coder" alt="Typing SVG" />
+<!-- header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=BD34FE&center=true&vCenter=true&width=700&lines=Hi,+I'm+Yasser;WordPress+Developer;Building+Cloud-Powered+Web+Apps" alt="Typing SVG" />
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 ## 💻 Tech Stack
 
-<!-- Grouped and centered tech badges -->
+<!-- Grouped badges -->
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -36,14 +36,14 @@
 
 ## 📊 Most Used Languages
 
-<!-- Isolated languages card -->
+<!-- languages card -->
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassfix&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br><br>
 
 ## 🐍 Contribution Activity
 
-<!-- Snake animation centered for a clean layout -->
+<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassfix/yassfix/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassfix/yassfix/output/github-contribution-grid-snake.svg">
@@ -52,7 +52,7 @@
 
 <br><br>
 
-<!-- Visit counter matching the ambient purple -->
+<!-- Visit counter -->
 <a href="https://visitcount.itsvg.in">
   <img src="https://komarev.com/ghpvc/?username=yassfix&icon=0&color=BD34FE&style=for-the-badge" alt="Profile views" />
 </a>
