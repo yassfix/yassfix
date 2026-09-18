@@ -5,7 +5,7 @@
 
 <br><br>
 
-### 💫 About Me
+### About Me
 </div>
 
 🔭 **Currently working on:** building cloud-backed productivity and learning apps like **obs-todo**, **focus-auditor**, and **lingoFlashCards**.<br>
