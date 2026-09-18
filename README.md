@@ -5,7 +5,7 @@
 
 <br><br>
 
-### About Me
+## About Me
 </div>
 
 🔭 **Currently working on:** building cloud-backed productivity and learning apps like **obs-todo**, **focus-auditor**, and **lingoFlashCards**.<br>
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <!-- Grouped and centered tech badges -->
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,14 +34,14 @@
 
 <br><br>
 
-### 📊 Most Used Languages
+## 📊 Most Used Languages
 
 <!-- Isolated languages card -->
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassfix&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br><br>
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <!-- Snake animation centered for a clean layout -->
 <picture>
