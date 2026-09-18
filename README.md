@@ -13,7 +13,6 @@
 💬 **Ask me about:** architecting apps with Firebase and Google Cloud Platform, or automated goal-tracking.<br>
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yass3r-saifi/)<br>
 ⚡ **Fun fact:** I gamify coding, language learning, and health goals using Beeminder, Forfeit, and accountability sessions on Focusmate.
-
 <br>
 
 <div align="center">
