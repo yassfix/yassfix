@@ -16,15 +16,7 @@ I'm a senior-year Computer Science student at University of the People and a Wor
 What started as building WordPress websites pushed me to learn how to code my own tools and automations to make my work faster and less repetitive.
 WordPress is still my favorite go-to for websites. For web apps and backend projects, I enjoy working with JavaScript, Python, Firebase, and Google Cloud. (learning Flutter next)
 
-## ⚡ Productivity Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Beeminder-FFD700?style=for-the-badge&logoColor=black" alt="Beeminder" />
-  <img src="https://img.shields.io/badge/Forfeit-000000?style=for-the-badge&logoColor=white" alt="Forfeit" />
-  <img src="https://img.shields.io/badge/Focusmate-0052CC?style=for-the-badge&logoColor=white" alt="Focusmate" />
-</p>
-
-<!-- Social icons section -->
 
 
 ## 💻 Tech Stack
@@ -44,6 +36,15 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
 </p>
 
 <br><br>
+
+## ⚡ Productivity Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beeminder-FFD700?style=for-the-badge&logoColor=black" alt="Beeminder" />
+  <img src="https://img.shields.io/badge/Forfeit-000000?style=for-the-badge&logoColor=white" alt="Forfeit" />
+  <img src="https://img.shields.io/badge/Focusmate-0052CC?style=for-the-badge&logoColor=white" alt="Focusmate" />
+</p>
+
 
 ## 📊 Most Used Languages
 
