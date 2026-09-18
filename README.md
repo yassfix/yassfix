@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Clean, modern typing header to replace the waving banner -->
+<!-- Clean, modern typing header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yasser;Building+Cloud-Backed+Apps;Creative+Visual+Coder" alt="Typing SVG" />
 
 <br><br>
@@ -31,6 +31,16 @@
 
 <br><br>
 
+### 📊 GitHub Stats
+
+<!-- Stats cards added back in and centered -->
+<img src="https://github-readme-stats.shion.dev/api?username=yassfix&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://streak-stats.demolab.com/?user=yassfix&theme=ambient_gradient&hide_border=false" />
+<br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassfix&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+<br><br>
+
 ### 🐍 Contribution Activity
 
 <!-- Snake animation centered for a clean layout -->
@@ -42,7 +52,7 @@
 
 <br><br>
 
-<!-- Unified blue visit counter to match the typing text -->
+<!-- Unified blue visit counter -->
 <a href="https://visitcount.itsvg.in">
   <img src="https://komarev.com/ghpvc/?username=yassfix&icon=0&color=58A6FF&style=for-the-badge" alt="Profile views" />
 </a>
