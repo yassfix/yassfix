@@ -10,6 +10,8 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## About Me
 
 I'm a senior-year Computer Science student at University of the People and a WordPress & cloud developer. 
@@ -45,6 +47,7 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
   <img src="https://img.shields.io/badge/Focusmate-0052CC?style=for-the-badge&logoColor=white" alt="Focusmate" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Most Used Languages
 
@@ -74,3 +77,6 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
     <img src="https://komarev.com/ghpvc/?username=yassfix&icon=0&color=BD34FE&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
