@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a senior-year Computer Science student at University of the People and a WordPress & cloud app developer. 
+I'm a senior-year Computer Science student at University of the People and a WordPress & cloud developer. 
 What started as building WordPress websites pushed me to learn how to code my own tools and automations to make my work faster and less repetitive.
 WordPress is still my favorite go-to for websites. For web apps and backend projects, I enjoy working with JavaScript, Python, Firebase, and Google Cloud. (learning Flutter next)
 
