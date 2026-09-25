@@ -1,5 +1,11 @@
 <p align="center">
   <!-- header -->
+
+<br>
+
+
+  
+
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=BD34FE&center=true&vCenter=true&width=700&lines=Hi,+I'm+Yasser;WordPress+Developer;Building+Cloud-Powered+Web+Apps" alt="Typing SVG" />
   
 
@@ -10,9 +16,10 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 ## About Me
+
 
 I'm a senior-year Computer Science student at University of the People and a WordPress & cloud developer. 
 What started as building WordPress websites pushed me to learn how to code my own tools and automations to make my work faster and less repetitive.
@@ -47,7 +54,6 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
   <img src="https://img.shields.io/badge/Focusmate-0052CC?style=for-the-badge&logoColor=white" alt="Focusmate" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Most Used Languages
 
@@ -57,6 +63,7 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
 </p>
 
 <br><br>
+
 
 ## 🐍 Contribution Activity
 
@@ -79,4 +86,4 @@ WordPress is still my favorite go-to for websites. For web apps and backend proj
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><--
